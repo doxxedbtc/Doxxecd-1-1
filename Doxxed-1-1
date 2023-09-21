@@ -1,0 +1,125 @@
+// meta.json
+
+{
+  "name": "Doxxed",
+  "slug": "Create your own identity ",
+  "supply": "9",
+  "description": "Owning a \"Doxxed 1/1\" Ordinal in the Doxxed ecosystem provides a premium experience within the Doxxed ecosystem.\nIt includes:Full Ecosystem Access: You gain complete access to exclusive content, events, and features within the Doxxed ecosystem that others can't access.\nDirect Interaction with Founders: You get the chance to engage with the founders, offering you a unique opportunity to influence the direction and vision of Doxxed.\nPriority Access: You are guaranteed access to all upcoming Ordinal drops and giveaways, ensuring you never miss out on limited opportunities.\nAlpha Version Access: You'll be among the first to experience new features and developments through alpha access, allowing you to provide feedback and shape the project's evolution.\nTrend Insights: The Doxxed team is well-connected in the Ordinal space, meaning you'll stay informed about the latest trends and industry developments. ",
+  "twitter_link": "https://twitter.com/DoxxedBTC",
+  "discord_link": "https://discord.gg/G42md9bCrK",
+  "website_link": "",
+  "inscription_icon": "6522e4db7fe0d57cf7c54163a39c5d45c0066e517a65fc789fd17dd9ce438510i0"
+}
+
+// inscriptions.json
+
+[
+  {
+    "id": "71cc0fd0b39a18504441509f45889f691698eea9556779108accec230f78a00di0",
+    "meta": {
+      "name": "Zeneca",
+      "attributes": [
+        {
+          "trait_type": "value",
+          "value": "1/1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c4c8af4c1e2106c5bef416e79c0b9361b35a329ab35ab0fe767d961138a239e3i0",
+    "meta": {
+      "name": "Liam",
+      "attributes": [
+        {
+          "trait_type": "value",
+          "value": "1/1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "758798629cbcf4997e86de0eee1bb85694f55a42fed39ffe7f46fff4580df9cbi0",
+    "meta": {
+      "name": "Resaang",
+      "attributes": [
+        {
+          "trait_type": "value",
+          "value": "1/1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dc1381191e513115695816578299c1c7ff6f70a32dcb68d514fd8a7011e20298i0",
+    "meta": {
+      "name": "6529",
+      "attributes": [
+        {
+          "trait_type": "value",
+          "value": "1/1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c49c38413722eea958570b6ab1ea1213e87ad9f7b498320922d3565d1323d17ci0",
+    "meta": {
+      "name": "Claire",
+      "attributes": [
+        {
+          "trait_type": "value",
+          "value": "1/1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7b790537b7d7f841a3a7d62a545efd899b4cf21d4941daa4441e6fba832aef6fi0",
+    "meta": {
+      "name": "Beeple",
+      "attributes": [
+        {
+          "trait_type": "value",
+          "value": "1/1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f8663d17ca6b8035a8865d814b65d4fae6fb03fce85e5b74f6ffabdef8e7dbe2i0",
+    "meta": {
+      "name": "Kevin",
+      "attributes": [
+        {
+          "trait_type": "value",
+          "value": "1/1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "21cab99e151be37bf73355046fbbf17e3c6eeb9bbe8561defb542540297e0733i0",
+    "meta": {
+      "name": "Frank",
+      "attributes": [
+        {
+          "trait_type": "value",
+          "value": "1/1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5727de92e5e0683f98fce620c2aff537ab85aa7401cf901c9395686896aee426i0",
+    "meta": {
+      "name": "NFT Sam",
+      "attributes": [
+        {
+          "trait_type": "value",
+          "value": "1/1"
+        }
+      ]
+    }
+  }
+]
